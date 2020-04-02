@@ -2277,6 +2277,7 @@ ws["A1"].s = {									// set the style for target cell
   },
 };
 ```
+![单元格设置样式](./imgs/1.pnng)
 
 ## Thanks
 [sheetjs](https://github.com/SheetJS/sheetjs)
